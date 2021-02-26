@@ -36,3 +36,5 @@ codelite HelloWorld.workspace &
 ```
 and we already have our project ready to be edited.
 > the ***&*** on the end of the command is to keep the Terminal open after we type the codelite command.
+
+When the codelite opens, you should see something like [this](codelite_first_sight.PNG).
