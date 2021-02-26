@@ -59,7 +59,7 @@ vim build.sh
 ```
 > this command is going to generate a file that will run CMake for us and generate the project.
 
-For this file and the other one I will [leave] a .txt and a .sh file named "CMakeLists.txt" and "build.sh" with all the script already written in order to help you guys.
+For this file and the other one I will leave a .txt file and a .sh file named ["CMakeLists.txt"](CMakeLists.txt) and ["build.sh"](build.sh) with all the script already written in order to help you guys.
 
 In order to run a script in linux, we need to make it executable, so we use the "chmod" command:
 ```
