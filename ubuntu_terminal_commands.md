@@ -37,5 +37,36 @@ sudo apt-get install vim g++ codelite cmake
 > 
 > Sometimes, installing stuff through terminal can install some high storage needy stuff, so check if you have the freespace that the Terminal is asking and type ***Y***.
 
-Just to Remember, you can use "clear" command as much as you want, but be sure to follow the [instructions on Line 18](#L18)
+Just to Remember, you can use "clear" command as much as you want, but please follow the *Clear Command instructions above*.
 
+```
+mkdir src
+```
+> this command will create the Source folder for the "HelloWorld" Project.
+
+```
+touch src\Main.cpp
+```
+> "touch" command creates a file with the current timestamp on it; you can always choose a name and an extension for you file, but this time we're naming it "Main.cpp".
+
+```
+vim CMakeLists.txt
+```
+> this command is going to generate a file and it's going to basically just nstruct _cmake_ how we want to actually generate our codelite project file.
+
+```
+vim build.sh
+```
+> this command is going to generate a file that will run CMake for us and generate the project.
+
+For this file and the other one I will [leave] a .txt and a .sh file named "CMakeLists.txt" and "build.sh" with all the script already written in order to help you guys.
+
+In order to run a script in linux, we need to make it executable, so we use the "chmod" command:
+```
+chmod +x build.sh
+```
+> This command will make "build.sh" executable in linux.
+```
+./build.sh
+```
+> This command will execute "build.sh" to create the project.
