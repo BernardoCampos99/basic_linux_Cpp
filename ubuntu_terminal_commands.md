@@ -1,5 +1,5 @@
 ```
-- mkdir Dev 
+mkdir Dev 
 ``` 
 > this will create a "Dev" called folder (or directory) on your root directory, this will be the place to put our Development stuff. You can change the name if you want.
 ```
@@ -9,9 +9,9 @@ cd Dev
 
 Inside the "Dev" folder, we can creat subfolders in order to separate and organize different projects, and if you wih, you can create more and more subfolders to maybe use them to separate versions of your codes.
 ```
-mkdir 
+mkdir HelloWorld
 ```
-> HelloWorld //this directory will be used as our first project, called "HelloWorld".
+> this directory will be used as our first project, called "HelloWorld".
 ```
 clear 
 ```
