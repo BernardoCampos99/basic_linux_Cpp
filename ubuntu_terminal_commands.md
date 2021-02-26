@@ -34,5 +34,8 @@ sudo apt-get install vim g++ codelite cmake
 > - "g++" as a Compiler;
 > - "codelite" as an IDE;
 > - "cmake" which is used to control the Compiling process.
-> Sometimes, installing stuff through terminal can install some high storage needy stuff, check if you have the freespace that the Terminal is asking and type ***Y***.
+> 
+> Sometimes, installing stuff through terminal can install some high storage needy stuff, so check if you have the freespace that the Terminal is asking and type ***Y***.
+
+Just to Remember, you can use "clear" command as much as you want, but be sure to follow the [instructions on Line 18](#L18)
 
