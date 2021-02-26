@@ -9,5 +9,6 @@ First, take a look in the [ubuntu's desktop image](desktop_ubuntu.PNG) file, and
 
 You'll see a [blank terminal](terminal_first_sight.PNG) and those white pieces can change depending on your username and the virtual machine PC name (or just the pc name, if you're not using a VM).
 
-Now we can set up a directory to have our projects started. The codes that I'll use will be available [here](ubuntu_terminal_commands.md).
-[code 1](ubuntu_terminal_commands.md #L3)
+Now we can setup a directory to have our projects started. The commands that I'll use will be available [here](ubuntu_terminal_commands.md).
+
+After the creation of the main folder, we can create the project folder, that will have the files to run a C++ job. Before continuing, you can check if the commands are functional and open those directories, it'll should look almost like [this](check_dir_commands.png) until now. In the top of the window, you'll should see a "House" icon and after it you'll see the directories that we created (in order to get there, I opened each of them through the "Files" app).
