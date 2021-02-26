@@ -55,3 +55,9 @@ If you get a message on the console written something like:
 ====0 errors, 0 warnings====
 ```
 If it's like this, then you can now [Run](codelite_run.PNG) your project (or just press ***Ctrl+F5***) and get [the results](codelite_result.PNG) on your linux terminal.
+
+As you can see, this code/project print a "Hello World!" String on a linux terminal. The Files of the project will be available [here](/HelloWorld) if you need to check something.
+
+If you need any assistance, don't hesitate to send me a message ^^
+
+Thanks for the attention, and Let's Code!
