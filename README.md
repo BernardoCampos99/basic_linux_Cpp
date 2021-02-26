@@ -38,3 +38,20 @@ and we already have our project ready to be edited.
 > the ***&*** on the end of the command is to keep the Terminal open after we type the codelite command.
 
 When the codelite opens, you should see something like [this](codelite_first_sight.PNG).
+
+Now you can open the "Main.cpp" file on the project, via codelite and edit it. Now we're going to print a "Hello World!" with it.
+
+```
+include <iostream>
+int main() { 
+  std::cout << "Hello World!" << std::endl;
+  std::cin.get();
+}
+```
+> This is going to be written on the "Main.cpp" file, and now you can [build](codelite_build.PNG) it! (Or just press ***F7***).
+
+If you get a message on the console written something like:
+```
+====0 errors, 0 warnings====
+```
+If it's like this, then you can now [Run](codelite_run.PNG) your project (or just press ***Ctrl+F5***) and get [the results](codelite_result.PNG) on your linux terminal.
