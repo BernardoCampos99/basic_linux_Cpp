@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/teste/Dev/HelloWorld/src/Main.cpp
+debug.cpp
+/home/teste/Dev/HelloWorld/src/debug.cpp
+
+/home/teste/Dev/HelloWorld/src/debug.cpp
+debug.h
+/home/teste/Dev/HelloWorld/src/debug.h
+
+inc/debug.h
+iostream
+-
+
